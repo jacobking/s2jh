@@ -21,4 +21,3 @@ A Java/J2EE development framework for enterprise system based on Struts/Spring/J
 ### Snapshot
 
 ![Snapshot View](https://raw.github.com/wiki/xautlx/s2jh/images/index.gif)
-
